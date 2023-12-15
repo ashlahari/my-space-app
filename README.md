@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# My Space App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was an experiment with 3D objects. I created a model of a star and an asteroid belt using react-three-fibre.
+
+Libraries used:
+1. react-three-fibre
+2. react-three/drei
 
 ## Available Scripts
 
